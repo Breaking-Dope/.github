@@ -4,7 +4,7 @@
 
 ### "모두가 기자가 된다"
 <a href="https://github.com/Breaking-Dope/breaking-frontend">💻 웹서비스 UI/UX</a></br>
-<a href="https://github.com/Breaking-Dope/android">📱 안드로이드 UI/UX</a></br>
+<a href="https://github.com/Breaking-Dope/breaking-android">📱 안드로이드 UI/UX</a></br>
 
 </div>
 
