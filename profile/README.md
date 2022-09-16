@@ -3,6 +3,7 @@
   <img src="https://user-images.githubusercontent.com/76773202/190131984-641dc804-ed12-4acf-a0f9-107376f08a26.png" width=30% height=30% />
 
 ### "모두가 기자가 된다"
+<a href="https://youtu.be/ii9rKOQF3yc">📷 시연 영상 (Youtube)</a></br>
 <a href="https://github.com/Breaking-Dope/breaking-frontend">💻 웹서비스 UI/UX</a></br>
 <a href="https://github.com/Breaking-Dope/breaking-android">📱 안드로이드 UI/UX</a></br>
 <a href="https://github.com/Breaking-Dope/breaking-backend">🗄️ 서버 team 저장소</a></br>
@@ -15,6 +16,9 @@
   <img style="width: 24%; padding: 0;" src="https://user-images.githubusercontent.com/76773202/190308715-099dba22-6d42-465f-8e90-764ce2abed36.png">
   <img style="width: 24%; padding: 0;" src="https://user-images.githubusercontent.com/76773202/190309359-d91303d4-3ef7-4f42-8a7c-f34e619171a4.png">
 </div>
+
+
+
 
 ---
 
@@ -62,7 +66,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/MinwuTheQuant">
+      <a href="https://github.com/minwukim">
       맛동산(김민우)
       </a>
     </td>
