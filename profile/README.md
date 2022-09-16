@@ -17,6 +17,83 @@
 
 ---
 
+## Members
+
+<table>
+  <tr>
+    <td align="center" colspan="3">
+      <b>Backend</b>
+    </td>
+    <td align="center" colspan="2">
+      <b>Frontend</b>
+    </td>
+    <td align="center" colspan="2">
+      <b>Android</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/76773202?v=4" width="120px" height="15%"/>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/76773202/190127071-0b8586c1-0eb3-47d1-a312-a89eb4137f70.png" width="120px" height="15%"/>
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/62254434?v=4" width="120px" height="15%"/>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/49224104/189107767-c23fdacd-ac56-4e99-bec0-f2c90925c2aa.png" width="120px" height="15%"/>
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/23312485?v=4" width="120px" height="15%"/>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/54919474/190633696-b7240bf0-532d-494e-9b16-911299bebc02.png" width="120px" height="15%"/>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/54919474/190632670-250f2698-e913-4338-903d-38d883481838.png" width="120px" height="15%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/JinuCheon">
+      천진우(깻묵)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MinwuTheQuant">
+      맛동산(김민우)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Martin0o0">
+      최현영(마틴)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Yoon-Hae-Min">
+      윤해민(만두피)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kangju2000">
+      강주혁(주기)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SeungGun">
+      신승건(머쓱)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Taehyuny">
+      박태현(돌망이)
+      </a>
+    </td>
+  </tr>
+  
+</table>
+
 ## 배경
 
 오늘날의 뉴스나 기사는 대부분 시민들의 제보에 의해 구성되고 있습니다. 그러나 실제로 이 과정을 살펴보았을 때, 제보자와 언론사 양쪽 모두 비효율적인 방식으로 제보하고, 수집합니다.
