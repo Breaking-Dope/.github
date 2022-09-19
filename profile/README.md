@@ -67,7 +67,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/minwukim">
-      맛동산(김민우)
+      김민우(맛동산)
       </a>
     </td>
     <td align="center">
